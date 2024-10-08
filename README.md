@@ -16,7 +16,7 @@
 
 
 
-![ER](/images/1.png)
+![ER](/images/1.jpg)
 
 
 
