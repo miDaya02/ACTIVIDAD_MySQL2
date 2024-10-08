@@ -3,11 +3,12 @@
 ## Tabla de contenido
 | Indice | Título  |
 |--|--|
-| 1. | [Descripción](#Descripcion) |
-| 2. | [Características](#Caracteristicas) |
-| 3. | [Tecnologías Utilizadas](#Tecnologias) |
-| 4. | [Uso del Repositorio](#Uso) |
-| 5. | [Autores](#Autores) |
+| 1. | [Diagrama uml en](#Diagrama_UML_ER) |
+| 2. | [PRIMERA FORMA NORMAL (1FN)](#PRIMERA_FORMA_NORMAL_(1FN)) |
+| 3. | [SEGUNDA FORMA NORMAL (2FN)](#SEGUNDA_FORMA_NORMAL_(2FN)) |
+| 4. | [TERCERA FORMA NORMAL (3FN)](#TERCERA_FORMA_NORMAL_(3FN)) |
+| 5. | [CUARTA FORMA NORMAL (4FN)](#CUARTA_FORMA_NORMAL_(4FN)) |
+| 6. | [Autoras](#Autoras) |
 
 
 ## Diagrama UML ER
@@ -36,4 +37,8 @@ En esta etapa, nos aseguramos de que no existan dependencias transitivas entre l
 
 ## CUARTA FORMA NORMAL (4FN)
 En esta fase, se busca eliminar las dependencias multivaluadas. En nuestro caso, no existían dependencias multivaluadas, por lo que no fue necesario realizar cambios adicionales.
+
+# Autoras: 
+- [Michelle Sánchez](https://github.com/miDaya02)
+- [Laura Rodriguez](https://github.com/Laura2ndrea)
 
